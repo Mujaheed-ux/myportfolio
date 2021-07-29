@@ -3973,6 +3973,12 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: cover;
 		padding-top: 0;
+		
+	}
+
+	section.container{
+		margin-right: 20px;
+		margin-left: 20px;
 	}
 
 	body.landing #footer {
